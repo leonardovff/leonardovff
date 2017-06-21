@@ -1,16 +1,13 @@
 {
-  "name": "Juliane Albuquerque",
-  "website": "http://julianealbuquerque.com",
-  "github": "http://github.com/JulianeAlbuquerque",
-  "linkedin": "https://www.linkedin.com/in/julianealbuquerque1/",
+  "name": "Leonardovff",
+  "github": "https://github.com/leonardovff",
+  "linkedin": "https://www.linkedin.com/in/leonardovff/",
+  "codepen": "https://codepen.io/leonardovff/",
   "company": [
     {
-      "name": "Sumup",
-      "website": "https://sumup.com"
-    }, 
-    {
-      "name": "payleven Brasil",
-      "website": "https://payleven.com.br" 
+      "name": "SENAI - Serviço de Aprendizagem Industrial | Alagoas",
+      "website": "http://al.senai.br",
+      "occupation": "Web developer"
     }
   ]
 }
