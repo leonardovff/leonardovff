@@ -12,7 +12,6 @@ Talk to me about
 - Mobile application development using **Ionic**
 - Creating scalable cloud architecture using **Docker, Docker-Compose and Microsoft Azure**
 - Project Management and CD/CI using **Gitlab-CI and Jenkins**
-- Scrum Master
 
 ## 📫 Contact Me
 - Twitter - [@leonardovff](https://twitter.com/leonardovff)
