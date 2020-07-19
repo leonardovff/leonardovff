@@ -6,7 +6,7 @@ T-shaped professional in the context of web application development, full-stack 
 
 ## ⚡ Technologies
 - Front-end development using **Angular and VanillaJS**
-- Backend development using **Node and NestJs**
+- Backend development using **Node and NestJs** - Past: PHP with Laravel
 - Architectural design for **Relational Database Management Systems**
 - Mobile application development using **Ionic**
 - Creating scalable cloud architecture using **Docker, Docker-Compose and Microsoft Azure**
