@@ -5,7 +5,6 @@ Sr. Software engineer
 T-shaped professional in the context of web application development, full-stack web developer. Currently also working as tech leader and scrum master in scrum teams.
 
 ## ⚡ Technologies
-Talk to me about
 - Front-end development using **Angular and VanillaJS**
 - Backend development using **Node and NestJs**
 - Architectural design for **Relational Database Management Systems**
