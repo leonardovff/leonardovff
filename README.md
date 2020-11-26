@@ -2,7 +2,9 @@
 Sr. Software engineer
 
 ## 🧐 About
-T-shaped professional in the context of web application development, full-stack web developer. Currently also working as tech leader and scrum master in scrum teams.
+T-shaped professional in the context of web application development, full-stack web developer.
+Current working as software engineer at Big E-Commerce.
+Past: Working as tech leader and scrum master in scrum teams.
 
 ## ⚡ Technologies
 - Front-end development using **Angular and VanillaJS**
