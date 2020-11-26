@@ -18,7 +18,7 @@ Past: Working as tech leader and scrum master in scrum teams.
 - Twitter - [@leonardovff](https://twitter.com/leonardovff)
 - LinkedIn - [Leonardo Victor](https://in.linkedin.com/in/leonardovff)
 - Codepen - [@leonardovff](https://codepen.io/leonardovff/)
-- Blog - [Leonardovff](https://leonardovff.me/)
+- Blog - [Leonardovff](https://lvff.me/blog)
 
 
 ---
