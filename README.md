@@ -1,26 +1,26 @@
-# Leonardo Victor 😃
-Sr. Software engineer
+# Leonardo Victor
+Sr. Software Engineer | Web Application Development Expert
 
-## 🧐 About
-T-shaped professional in the context of web application development, full-stack web developer.
-Current working as software engineer at Big E-Commerce.
-Past: Working as tech leader and scrum master in scrum teams.
+About:
+I'm a full-stack web developer with expertise in front-end development, backend engineering, DevOps, and data engineering. Currently working remotely as a software engineer abroad.
 
 ## ⚡ Technologies
-- Front-end development using **Angular and VanillaJS**
-- Backend development using **Node with Lambda** - Past: Node with NestJs, PHP with Laravel
-- Server-render using **Angular Universal** and **Squirrelly**, 
-- Architectural design for **Relational Database Management Systems**
-- Creating scalable cloud architecture using **Docker, Docker-Compose, Microsoft Azure and AWS**
-- Project Management and CD/CI using **Gitlab-CI and Jenkins**
+
+- Front-end: **Angular**, **React** (with VanillaJS)
+- Backend: **Node.js**, **Python**
+  - Previously worked with **PHP**: Pure and With Laravel
+  - Also experience with ASP
+- Server rendering: **Angular Universal**, **NextJS**, **Squirrelly**
+- Database knowledge:
+  - SQL (PostgreSQL, MySQL, Snowflake, BigQuery)
+  - No-SQL databases (MongoDB, DynamoDB, Redis)
+- Containerization and orchestration: **Docker/Docker-Compose**, **kubectl/k8**
+- Cloud infrastructure: **AWS** (lambda, RDS, Secret Management, VPC, IAM, VPC), **GCP** (Cloud Run, Cloud Run Jobs, GKE, SQL, VPC, Load Balance, IAM)
+- Data engineering and pipeline management: **Dagster**, **DBT**, **DTL**
 
 ## 📫 Contact Me
-- Twitter - [@leonardovff](https://twitter.com/leonardovff)
-- LinkedIn - [Leonardo Victor](https://in.linkedin.com/in/leonardovff)
-- Codepen - [@leonardovff](https://codepen.io/leonardovff/)
-- Blog - [https://lvff.me/blog](https://lvff.me/blog)
-- Codesignal - [@leonardovff](https://app.codesignal.com/profile/leonardovff)
 
-
----
-⭐️ Template from [gc-codes](https://github.com/gc-codes)
+- Twitter: [@leonardovff](https://twitter.com/leonardovff)
+- LinkedIn: [Leonardo Victor](https://in.linkedin.com/in/leonardovff)
+- Codepen: [@leonardovff](https://codepen.io/leonardovff/)
+- Codesignal: [@leonardovff](https://app.codesignal.com/profile/leonardovff)
