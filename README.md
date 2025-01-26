@@ -8,8 +8,6 @@ I'm a full-stack web developer with expertise in front-end development, backend 
 
 - Front-end: **Angular**, **React** (with VanillaJS or Typescript)
 - Backend: **Node.js**, **Python**
-  - Previously worked with **PHP**: Pure and With Laravel
-  - Also experience with ASP
 - Server rendering: **Angular Universal**, **NextJS**, **Squirrelly**
 - Database knowledge:
   - SQL (PostgreSQL, MySQL, Snowflake, BigQuery)
