@@ -14,7 +14,7 @@ I'm a full-stack web developer with expertise in front-end development, backend 
   - No-SQL databases (MongoDB, DynamoDB, Redis)
 - Containerization and orchestration: **Docker/Docker-Compose**, **kubectl/k8**
 - Cloud infrastructure: **AWS** (lambda, RDS, Secret Management, VPC, IAM, VPC), **GCP** (Cloud Run, Cloud Run Jobs, GKE, SQL, VPC, Load Balance, IAM)
-- Data engineering and pipeline management: **Dagster**, **DBT**, **DTL**
+- Data engineering and pipeline management: **Dagster**, **DBT**, **Dlt**
 
 ## 📫 Links
 
