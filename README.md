@@ -18,9 +18,7 @@ I'm a full-stack web developer with expertise in front-end development, backend 
 - Cloud infrastructure: **AWS** (lambda, RDS, Secret Management, VPC, IAM, VPC), **GCP** (Cloud Run, Cloud Run Jobs, GKE, SQL, VPC, Load Balance, IAM)
 - Data engineering and pipeline management: **Dagster**, **DBT**, **DTL**
 
-## 📫 Contact Me
+## 📫 Links
 
-- Twitter: [@leonardovff](https://twitter.com/leonardovff)
-- LinkedIn: [Leonardo Victor](https://in.linkedin.com/in/leonardovff)
 - Codepen: [@leonardovff](https://codepen.io/leonardovff/)
 - Codesignal: [@leonardovff](https://app.codesignal.com/profile/leonardovff)
