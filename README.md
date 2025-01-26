@@ -22,3 +22,4 @@ I'm a full-stack web developer with expertise in front-end development, backend 
 
 - Codepen: [@leonardovff](https://codepen.io/leonardovff/)
 - Codesignal: [@leonardovff](https://app.codesignal.com/profile/leonardovff)
+- Dev.to: [@leonardovff](https://dev.to/leonardovff)
